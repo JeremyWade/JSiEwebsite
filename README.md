@@ -1,4 +1,4 @@
-# JSiEwebsite (http;//jsie.in) is the website for the Jindal Centre for Social Innovation & Entreprenuership. 
+# JSiEwebsite (http://jsie.in) is the website for the Jindal Centre for Social Innovation & Entreprenuership. 
 
 
 
